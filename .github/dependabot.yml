@@ -1,0 +1,27 @@
+version: 2
+updates:
+  # Pinned (==) deps: each release yields a bump PR after the cooldown.
+  - package-ecosystem: pip
+    directory: "/"
+    schedule:
+      interval: weekly
+    cooldown:
+      # Let a release age 14 days (time to be vetted/yanked) before proposing it.
+      default-days: 14
+    # One weekly PR for all bumps, not one per package.
+    groups:
+      python-deps:
+        patterns:
+          - "*"
+
+  # GitHub Actions used by the workflow.
+  - package-ecosystem: github-actions
+    directory: "/"
+    schedule:
+      interval: weekly
+    cooldown:
+      default-days: 14
+    groups:
+      github-actions:
+        patterns:
+          - "*"

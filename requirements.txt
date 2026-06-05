@@ -1,0 +1,4 @@
+requests==2.34.2
+beautifulsoup4==4.14.3
+icalendar==7.1.2
+feedgen==1.0.0

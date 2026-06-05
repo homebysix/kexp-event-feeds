@@ -1,0 +1,74 @@
+[
+  {
+    "id": "485603",
+    "uid": "485603@kexp.org",
+    "title": "Isobel Campbell LIVE on KEXP (OPEN TO THE PUBLIC)",
+    "url": "https://kexp.org/events/kexp-events/isobel-campbell-live-on-kexp-kexp_485603/",
+    "location": "KEXP Studio (NW Rooms)",
+    "start_utc": "2026-06-05T18:00:00+00:00",
+    "end_utc": "2026-06-05T18:30:00+00:00"
+  },
+  {
+    "id": "485761",
+    "uid": "485761@kexp.org",
+    "title": "Racing Mount Pleasant LIVE on KEXP (OPEN TO THE PUBLIC)",
+    "url": "https://kexp.org/events/kexp-events/racing-mount-pleasant-live-on-kexp-kexp_485761/",
+    "location": "KEXP Studio (NW Rooms)",
+    "start_utc": "2026-06-08T18:00:00+00:00",
+    "end_utc": "2026-06-08T18:30:00+00:00"
+  },
+  {
+    "id": "486261",
+    "uid": "486261@kexp.org",
+    "title": "The Neighborhood Kids LIVE on KEXP (OPEN TO THE PUBLIC)",
+    "url": "https://kexp.org/events/kexp-events/the-neighborhood-kids-live-on-kexp-kexp_486261/",
+    "location": "KEXP Studio (NW Rooms)",
+    "start_utc": "2026-06-08T22:00:00+00:00",
+    "end_utc": "2026-06-08T22:30:00+00:00"
+  },
+  {
+    "id": "481947",
+    "uid": "481947@kexp.org",
+    "title": "Toadies LIVE on KEXP (OPEN TO THE PUBLIC)",
+    "url": "https://kexp.org/events/kexp-events/toadies-live-on-kexp-kexp_481947/",
+    "location": "KEXP Studio (NW Rooms)",
+    "start_utc": "2026-06-09T16:30:00+00:00",
+    "end_utc": "2026-06-09T17:00:00+00:00"
+  },
+  {
+    "id": "492342",
+    "uid": "492342@kexp.org",
+    "title": "The Royston Club LIVE on KEXP (BROADCAST ONLY)",
+    "url": "https://kexp.org/events/kexp-events/the-royston-club-live-on-kexp-kexp_492342/",
+    "location": "KEXP Studio (NW Rooms)",
+    "start_utc": "2026-06-24T16:30:00+00:00",
+    "end_utc": "2026-06-24T17:00:00+00:00"
+  },
+  {
+    "id": "485705",
+    "uid": "485705@kexp.org",
+    "title": "Hannah Lew LIVE on KEXP (OPEN TO THE PUBLIC)",
+    "url": "https://kexp.org/events/kexp-events/hannah-lew-live-on-kexp-kexp_485705/",
+    "location": "KEXP Studio (NW Rooms)",
+    "start_utc": "2026-06-26T18:00:00+00:00",
+    "end_utc": "2026-06-26T18:30:00+00:00"
+  },
+  {
+    "id": "490865",
+    "uid": "490865@kexp.org",
+    "title": "Snooper LIVE on KEXP (OPEN TO THE PUBLIC)",
+    "url": "https://kexp.org/events/kexp-events/snooper-live-on-kexp-kexp_490865/",
+    "location": "KEXP Studio (NW Rooms)",
+    "start_utc": "2026-07-22T22:00:00+00:00",
+    "end_utc": "2026-07-22T22:30:00+00:00"
+  },
+  {
+    "id": "490810",
+    "uid": "490810@kexp.org",
+    "title": "WU LYF LIVE on KEXP (OPEN TO THE PUBLIC)",
+    "url": "https://kexp.org/events/kexp-events/wu-lyf-live-on-kexp-kexp_490810/",
+    "location": "KEXP Studio (NW Rooms)",
+    "start_utc": "2026-07-30T18:00:00+00:00",
+    "end_utc": "2026-07-30T18:30:00+00:00"
+  }
+]

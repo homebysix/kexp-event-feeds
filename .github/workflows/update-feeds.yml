@@ -1,0 +1,69 @@
+name: Build & deploy
+
+on:
+  schedule:
+    # 01:07 UTC daily (~6pm PT). Cron is UTC (no DST); offset off :00 (busiest).
+    - cron: "7 1 * * *"
+  workflow_dispatch: {} # allow manual runs
+  push:
+    branches: [main]
+    paths-ignore:
+      - "public/**" # feed commits below must NOT retrigger this workflow
+
+# Publish to Pages and commit regenerated feeds back.
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+# No overlapping deploys; let an in-progress one finish.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      # Restores the last committed public/ — the fallback the scraper preserves
+      # for a failed/empty category, so a blip redeploys the last good feed, not a 404.
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Scrape and build feeds
+        env:
+          # Default project-pages URL; set a SITE_BASE repo var to override.
+          SITE_BASE: ${{ vars.SITE_BASE || format('https://{0}.github.io/{1}', github.repository_owner, github.event.repository.name) }}
+        run: python scraper.py
+
+      # Persist feeds so the next run's checkout has them as fallback.
+      - name: Commit updated feeds
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public
+          if git diff --staged --quiet; then
+            echo "No feed changes to commit."
+          else
+            # --no-verify: never let pre-commit hooks run on / block the bot's commit.
+            git commit --no-verify -m "Update feeds [skip ci]"
+            git push
+          fi
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+      - id: deploy
+        uses: actions/deploy-pages@v4

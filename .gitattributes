@@ -1,0 +1,5 @@
+# .ics needs CRLF (RFC 5545); treat as binary so git never normalizes it.
+public/*.ics -text
+
+# Generated output: collapse diffs and exclude from language stats.
+public/** linguist-generated=true

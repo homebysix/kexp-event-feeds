@@ -1,0 +1,111 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//homebysix//kexp-event-feeds 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KEXP — In-studio
+REFRESH-INTERVAL;VALUE=DURATION:PT24H
+X-PUBLISHED-TTL:PT24H
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VEVENT
+SUMMARY:Isobel Campbell LIVE on KEXP (OPEN TO THE PUBLIC)
+DTSTART:20260605T180000Z
+DTEND:20260605T183000Z
+DTSTAMP:20260605T141117Z
+UID:485603@kexp.org
+DESCRIPTION:https://kexp.org/events/kexp-events/isobel-campbell-live-on-ke
+ xp-kexp_485603/
+LAST-MODIFIED:20260605T141117Z
+LOCATION:KEXP Studio (NW Rooms)
+URL:https://kexp.org/events/kexp-events/isobel-campbell-live-on-kexp-kexp_
+ 485603/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Racing Mount Pleasant LIVE on KEXP (OPEN TO THE PUBLIC)
+DTSTART:20260608T180000Z
+DTEND:20260608T183000Z
+DTSTAMP:20260605T141117Z
+UID:485761@kexp.org
+DESCRIPTION:https://kexp.org/events/kexp-events/racing-mount-pleasant-live
+ -on-kexp-kexp_485761/
+LAST-MODIFIED:20260605T141117Z
+LOCATION:KEXP Studio (NW Rooms)
+URL:https://kexp.org/events/kexp-events/racing-mount-pleasant-live-on-kexp
+ -kexp_485761/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Neighborhood Kids LIVE on KEXP (OPEN TO THE PUBLIC)
+DTSTART:20260608T220000Z
+DTEND:20260608T223000Z
+DTSTAMP:20260605T141117Z
+UID:486261@kexp.org
+DESCRIPTION:https://kexp.org/events/kexp-events/the-neighborhood-kids-live
+ -on-kexp-kexp_486261/
+LAST-MODIFIED:20260605T141117Z
+LOCATION:KEXP Studio (NW Rooms)
+URL:https://kexp.org/events/kexp-events/the-neighborhood-kids-live-on-kexp
+ -kexp_486261/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Toadies LIVE on KEXP (OPEN TO THE PUBLIC)
+DTSTART:20260609T163000Z
+DTEND:20260609T170000Z
+DTSTAMP:20260605T141117Z
+UID:481947@kexp.org
+DESCRIPTION:https://kexp.org/events/kexp-events/toadies-live-on-kexp-kexp_
+ 481947/
+LAST-MODIFIED:20260605T141117Z
+LOCATION:KEXP Studio (NW Rooms)
+URL:https://kexp.org/events/kexp-events/toadies-live-on-kexp-kexp_481947/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Royston Club LIVE on KEXP (BROADCAST ONLY)
+DTSTART:20260624T163000Z
+DTEND:20260624T170000Z
+DTSTAMP:20260605T141117Z
+UID:492342@kexp.org
+DESCRIPTION:https://kexp.org/events/kexp-events/the-royston-club-live-on-k
+ exp-kexp_492342/
+LAST-MODIFIED:20260605T141117Z
+LOCATION:KEXP Studio (NW Rooms)
+URL:https://kexp.org/events/kexp-events/the-royston-club-live-on-kexp-kexp
+ _492342/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hannah Lew LIVE on KEXP (OPEN TO THE PUBLIC)
+DTSTART:20260626T180000Z
+DTEND:20260626T183000Z
+DTSTAMP:20260605T141117Z
+UID:485705@kexp.org
+DESCRIPTION:https://kexp.org/events/kexp-events/hannah-lew-live-on-kexp-ke
+ xp_485705/
+LAST-MODIFIED:20260605T141117Z
+LOCATION:KEXP Studio (NW Rooms)
+URL:https://kexp.org/events/kexp-events/hannah-lew-live-on-kexp-kexp_48570
+ 5/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Snooper LIVE on KEXP (OPEN TO THE PUBLIC)
+DTSTART:20260722T220000Z
+DTEND:20260722T223000Z
+DTSTAMP:20260605T141117Z
+UID:490865@kexp.org
+DESCRIPTION:https://kexp.org/events/kexp-events/snooper-live-on-kexp-kexp_
+ 490865/
+LAST-MODIFIED:20260605T141117Z
+LOCATION:KEXP Studio (NW Rooms)
+URL:https://kexp.org/events/kexp-events/snooper-live-on-kexp-kexp_490865/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WU LYF LIVE on KEXP (OPEN TO THE PUBLIC)
+DTSTART:20260730T180000Z
+DTEND:20260730T183000Z
+DTSTAMP:20260605T141117Z
+UID:490810@kexp.org
+DESCRIPTION:https://kexp.org/events/kexp-events/wu-lyf-live-on-kexp-kexp_4
+ 90810/
+LAST-MODIFIED:20260605T141117Z
+LOCATION:KEXP Studio (NW Rooms)
+URL:https://kexp.org/events/kexp-events/wu-lyf-live-on-kexp-kexp_490810/
+END:VEVENT
+END:VCALENDAR
