@@ -17,4 +17,4 @@ python scraper.py
 # open public/index.html
 ```
 
-Set `SITE_BASE=https://you.github.io/repo` to bake absolute `webcal://` subscribe links into `index.html`; without it the links are relative.
+Set `SITE_BASE=https://you.github.io/repo` to bake absolute `webcal://` subscribe links into `index.html` and RSS self links; without it the links are relative.

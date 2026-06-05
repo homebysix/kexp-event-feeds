@@ -43,7 +43,9 @@ PACIFIC = ZoneInfo(PACIFIC_TZNAME)
 DEFAULT_DURATION = timedelta(minutes=30)  # when an event omits its end time
 REQUEST_DELAY = 1.0  # be polite to kexp.org
 VERSION = "1.0"
-USER_AGENT = f"kexp-event-feeds/{VERSION} (+https://github.com/homebysix/kexp-event-feeds)"
+USER_AGENT = (
+    f"kexp-event-feeds/{VERSION} (+https://github.com/homebysix/kexp-event-feeds)"
+)
 ID_RE = re.compile(r"_(\d+)/?$")
 
 # slug -> label, from the site's own category filter.
@@ -59,6 +61,10 @@ CATEGORIES: dict[str, str] = {
 
 # Absolute on GitHub Actions; relative when unset.
 SITE_BASE = os.environ.get("SITE_BASE", "").rstrip("/")
+
+
+def public_url(name: str) -> str:
+    return f"{SITE_BASE}/{name}" if SITE_BASE else name
 
 
 def fetch(url: str) -> str:
@@ -197,6 +203,7 @@ def build_ics(events: list[dict], label: str, now: datetime) -> bytes:
 def build_rss(events: list[dict], slug: str, label: str, now: datetime) -> bytes:
     fg = FeedGenerator()
     fg.title(f"KEXP — {label}")
+    fg.link(href=public_url(f"{slug}.xml"), rel="self", type="application/rss+xml")
     fg.link(href=f"{LISTING}?category={slug}", rel="alternate")
     fg.description(f"Upcoming KEXP “{label}” events.")
     fg.language("en")
@@ -209,7 +216,7 @@ def build_rss(events: list[dict], slug: str, label: str, now: datetime) -> bytes
         when = ev["start_utc"].astimezone(PACIFIC)
         fe.title(f"{ev['title']} — {when:%a %b %-d, %Y %-I:%M %p %Z}")
         fe.link(href=ev["url"])
-        fe.pubDate(ev["start_utc"])
+        fe.pubDate(now)
         body = f"{when:%A, %B %-d, %Y at %-I:%M %p %Z}"
         if ev["location"]:
             body += f"<br>Location: {ev['location']}"
@@ -221,13 +228,10 @@ def build_rss(events: list[dict], slug: str, label: str, now: datetime) -> bytes
 def build_index(stats: list[dict], now: datetime) -> str:
     """A static subscribe page: per-category ICS (webcal + https) and RSS links."""
 
-    def feed_url(name: str) -> str:
-        return f"{SITE_BASE}/{name}" if SITE_BASE else name
-
     def webcal(name: str) -> str:
         if SITE_BASE.startswith("https://"):
             return "webcal://" + SITE_BASE[len("https://") :] + "/" + name
-        return feed_url(name)
+        return public_url(name)
 
     # (css tone class, label text) per status.
     status_meta = {
@@ -251,8 +255,8 @@ def build_index(stats: list[dict], now: datetime) -> str:
           Subscribe to calendar
         </a>
         <div class="card__links">
-          <a href="{feed_url(ics)}">ICS file</a>
-          <a href="{feed_url(xml)}">RSS feed</a>
+          <a href="{public_url(ics)}">ICS file</a>
+          <a href="{public_url(xml)}">RSS feed</a>
         </div>
       </article>""")
     grid = "\n".join(cards)

@@ -4,6 +4,7 @@
     <title>KEXP — Artist Education</title>
     <link>https://kexp.org/events/kexp-events/?category=artist-education</link>
     <description>Upcoming KEXP “Artist Education” events.</description>
+    <atom:link href="https://homebysix.github.io/kexp-event-feeds/artist-education.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
