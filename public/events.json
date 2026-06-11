@@ -1,41 +1,5 @@
 [
   {
-    "id": "485603",
-    "uid": "485603@kexp.org",
-    "title": "Isobel Campbell LIVE on KEXP (OPEN TO THE PUBLIC)",
-    "url": "https://kexp.org/events/kexp-events/isobel-campbell-live-on-kexp-kexp_485603/",
-    "location": "KEXP Studio (NW Rooms)",
-    "start_utc": "2026-06-05T18:00:00+00:00",
-    "end_utc": "2026-06-05T18:30:00+00:00"
-  },
-  {
-    "id": "485761",
-    "uid": "485761@kexp.org",
-    "title": "Racing Mount Pleasant LIVE on KEXP (OPEN TO THE PUBLIC)",
-    "url": "https://kexp.org/events/kexp-events/racing-mount-pleasant-live-on-kexp-kexp_485761/",
-    "location": "KEXP Studio (NW Rooms)",
-    "start_utc": "2026-06-08T18:00:00+00:00",
-    "end_utc": "2026-06-08T18:30:00+00:00"
-  },
-  {
-    "id": "486261",
-    "uid": "486261@kexp.org",
-    "title": "The Neighborhood Kids LIVE on KEXP (OPEN TO THE PUBLIC)",
-    "url": "https://kexp.org/events/kexp-events/the-neighborhood-kids-live-on-kexp-kexp_486261/",
-    "location": "KEXP Studio (NW Rooms)",
-    "start_utc": "2026-06-08T22:00:00+00:00",
-    "end_utc": "2026-06-08T22:30:00+00:00"
-  },
-  {
-    "id": "481947",
-    "uid": "481947@kexp.org",
-    "title": "Toadies LIVE on KEXP (OPEN TO THE PUBLIC)",
-    "url": "https://kexp.org/events/kexp-events/toadies-live-on-kexp-kexp_481947/",
-    "location": "KEXP Studio (NW Rooms)",
-    "start_utc": "2026-06-09T16:30:00+00:00",
-    "end_utc": "2026-06-09T17:00:00+00:00"
-  },
-  {
     "id": "493350",
     "uid": "493350@kexp.org",
     "title": "Tigers Jaw LIVE on KEXP (OPEN TO THE PUBLIC)",
