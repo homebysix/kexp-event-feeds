@@ -36,6 +36,24 @@
     "end_utc": "2026-07-07T22:30:00+00:00"
   },
   {
+    "id": "498139",
+    "uid": "498139@kexp.org",
+    "title": "Souls of Mischief LIVE on KEXP",
+    "url": "https://kexp.org/events/kexp-events/souls-of-mischief-live-on-kexp-kexp_498139/",
+    "location": "KEXP Studio (NW Rooms)",
+    "start_utc": "2026-07-10T20:00:00+00:00",
+    "end_utc": "2026-07-10T20:30:00+00:00"
+  },
+  {
+    "id": "498187",
+    "uid": "498187@kexp.org",
+    "title": "Bob Mould LIVE on KEXP",
+    "url": "https://kexp.org/events/kexp-events/bob-mould-live-on-kexp-kexp_498187/",
+    "location": "KEXP Studio (NW Rooms)",
+    "start_utc": "2026-07-22T18:00:00+00:00",
+    "end_utc": "2026-07-22T18:30:00+00:00"
+  },
+  {
     "id": "490865",
     "uid": "490865@kexp.org",
     "title": "Snooper LIVE on KEXP (OPEN TO THE PUBLIC)",
@@ -43,6 +61,15 @@
     "location": "KEXP Studio (NW Rooms)",
     "start_utc": "2026-07-22T22:00:00+00:00",
     "end_utc": "2026-07-22T22:30:00+00:00"
+  },
+  {
+    "id": "498199",
+    "uid": "498199@kexp.org",
+    "title": "Sera Cahoone LIVE on KEXP",
+    "url": "https://kexp.org/events/kexp-events/sera-cahoone-live-on-kexp-kexp_498199/",
+    "location": "KEXP Studio (NW Rooms)",
+    "start_utc": "2026-07-23T18:00:00+00:00",
+    "end_utc": "2026-07-23T18:30:00+00:00"
   },
   {
     "id": "490810",
