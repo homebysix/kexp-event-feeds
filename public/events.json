@@ -1,32 +1,5 @@
 [
   {
-    "id": "493350",
-    "uid": "493350@kexp.org",
-    "title": "Tigers Jaw LIVE on KEXP (OPEN TO THE PUBLIC)",
-    "url": "https://kexp.org/events/kexp-events/tigers-jaw-live-on-kexp-kexp_493350/",
-    "location": "KEXP Studio (NW Rooms)",
-    "start_utc": "2026-06-11T18:00:00+00:00",
-    "end_utc": "2026-06-11T18:30:00+00:00"
-  },
-  {
-    "id": "492342",
-    "uid": "492342@kexp.org",
-    "title": "The Royston Club LIVE on KEXP (BROADCAST ONLY)",
-    "url": "https://kexp.org/events/kexp-events/the-royston-club-live-on-kexp-kexp_492342/",
-    "location": "KEXP Studio (NW Rooms)",
-    "start_utc": "2026-06-24T16:30:00+00:00",
-    "end_utc": "2026-06-24T17:00:00+00:00"
-  },
-  {
-    "id": "485705",
-    "uid": "485705@kexp.org",
-    "title": "Hannah Lew LIVE on KEXP (OPEN TO THE PUBLIC)",
-    "url": "https://kexp.org/events/kexp-events/hannah-lew-live-on-kexp-kexp_485705/",
-    "location": "KEXP Studio (NW Rooms)",
-    "start_utc": "2026-06-26T18:00:00+00:00",
-    "end_utc": "2026-06-26T18:30:00+00:00"
-  },
-  {
     "id": "494222",
     "uid": "494222@kexp.org",
     "title": "Heavy Bloom LIVE on KEXP (OPEN TO THE PUBLIC)",
