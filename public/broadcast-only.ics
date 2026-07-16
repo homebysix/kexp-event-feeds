@@ -8,16 +8,16 @@ REFRESH-INTERVAL;VALUE=DURATION:PT24H
 X-PUBLISHED-TTL:PT24H
 X-WR-TIMEZONE:America/Los_Angeles
 BEGIN:VEVENT
-SUMMARY:Widowspeak LIVE on KEXP
-DTSTART:20260731T180000Z
-DTEND:20260731T183000Z
-DTSTAMP:20260707T045824Z
-UID:498375@kexp.org
-DESCRIPTION:https://kexp.org/events/kexp-events/widowspeak-live-on-kexp-ke
- xp_498375/
-LAST-MODIFIED:20260707T045824Z
+SUMMARY:Death Cab for Cutie LIVE on KEXP
+DTSTART:20260907T180000Z
+DTEND:20260907T183000Z
+DTSTAMP:20260716T041259Z
+UID:500824@kexp.org
+DESCRIPTION:https://kexp.org/events/kexp-events/death-cab-for-cutie-live-o
+ n-kexp-kexp_500824/
+LAST-MODIFIED:20260716T041259Z
 LOCATION:KEXP Studio (NW Rooms)
-URL:https://kexp.org/events/kexp-events/widowspeak-live-on-kexp-kexp_49837
- 5/
+URL:https://kexp.org/events/kexp-events/death-cab-for-cutie-live-on-kexp-k
+ exp_500824/
 END:VEVENT
 END:VCALENDAR
