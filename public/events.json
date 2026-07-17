@@ -1,32 +1,5 @@
 [
   {
-    "id": "494222",
-    "uid": "494222@kexp.org",
-    "title": "Heavy Bloom LIVE on KEXP (OPEN TO THE PUBLIC)",
-    "url": "https://kexp.org/events/kexp-events/heavy-bloom-live-on-kexp-kexp_494222/",
-    "location": "KEXP Studio (NW Rooms)",
-    "start_utc": "2026-07-07T22:00:00+00:00",
-    "end_utc": "2026-07-07T22:30:00+00:00"
-  },
-  {
-    "id": "498139",
-    "uid": "498139@kexp.org",
-    "title": "Souls of Mischief LIVE on KEXP (OPEN TO THE PUBLIC)",
-    "url": "https://kexp.org/events/kexp-events/souls-of-mischief-live-on-kexp-kexp_498139/",
-    "location": "KEXP Studio (NW Rooms)",
-    "start_utc": "2026-07-10T20:00:00+00:00",
-    "end_utc": "2026-07-10T20:30:00+00:00"
-  },
-  {
-    "id": "499637",
-    "uid": "499637@kexp.org",
-    "title": "MYXA LIVE on KEXP (OPEN TO THE PUBLIC)",
-    "url": "https://kexp.org/events/kexp-events/myxa-live-on-kexp-kexp_499637/",
-    "location": "KEXP Studio (NW Rooms)",
-    "start_utc": "2026-07-11T20:00:00+00:00",
-    "end_utc": "2026-07-11T20:30:00+00:00"
-  },
-  {
     "id": "498187",
     "uid": "498187@kexp.org",
     "title": "Bob Mould LIVE on KEXP (OPEN TO THE PUBLIC)",
