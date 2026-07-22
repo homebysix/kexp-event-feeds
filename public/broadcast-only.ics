@@ -8,14 +8,27 @@ REFRESH-INTERVAL;VALUE=DURATION:PT24H
 X-PUBLISHED-TTL:PT24H
 X-WR-TIMEZONE:America/Los_Angeles
 BEGIN:VEVENT
+SUMMARY:The Womack Sisters LIVE on KEXP
+DTSTART:20260810T220000Z
+DTEND:20260810T223000Z
+DTSTAMP:20260722T042101Z
+UID:502273@kexp.org
+DESCRIPTION:https://kexp.org/events/kexp-events/the-womack-sisters-live-on
+ -kexp-kexp_502273/
+LAST-MODIFIED:20260722T042101Z
+LOCATION:KEXP Studio (NW Rooms)
+URL:https://kexp.org/events/kexp-events/the-womack-sisters-live-on-kexp-ke
+ xp_502273/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Death Cab for Cutie LIVE on KEXP
 DTSTART:20260907T180000Z
 DTEND:20260907T183000Z
-DTSTAMP:20260721T041849Z
+DTSTAMP:20260722T042101Z
 UID:500824@kexp.org
 DESCRIPTION:https://kexp.org/events/kexp-events/death-cab-for-cutie-live-o
  n-kexp-kexp_500824/
-LAST-MODIFIED:20260721T041849Z
+LAST-MODIFIED:20260722T042101Z
 LOCATION:KEXP Studio (NW Rooms)
 URL:https://kexp.org/events/kexp-events/death-cab-for-cutie-live-on-kexp-k
  exp_500824/
