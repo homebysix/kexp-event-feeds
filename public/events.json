@@ -1,50 +1,5 @@
 [
   {
-    "id": "498187",
-    "uid": "498187@kexp.org",
-    "title": "Bob Mould LIVE on KEXP (OPEN TO THE PUBLIC)",
-    "url": "https://kexp.org/events/kexp-events/bob-mould-live-on-kexp-kexp_498187/",
-    "location": "KEXP Studio (NW Rooms)",
-    "start_utc": "2026-07-22T18:00:00+00:00",
-    "end_utc": "2026-07-22T18:30:00+00:00"
-  },
-  {
-    "id": "490865",
-    "uid": "490865@kexp.org",
-    "title": "Snooper LIVE on KEXP (OPEN TO THE PUBLIC)",
-    "url": "https://kexp.org/events/kexp-events/snooper-live-on-kexp-kexp_490865/",
-    "location": "KEXP Studio (NW Rooms)",
-    "start_utc": "2026-07-22T22:00:00+00:00",
-    "end_utc": "2026-07-22T22:30:00+00:00"
-  },
-  {
-    "id": "498199",
-    "uid": "498199@kexp.org",
-    "title": "Sera Cahoone LIVE on KEXP (OPEN TO THE PUBLIC)",
-    "url": "https://kexp.org/events/kexp-events/sera-cahoone-live-on-kexp-kexp_498199/",
-    "location": "KEXP Studio (NW Rooms)",
-    "start_utc": "2026-07-23T18:00:00+00:00",
-    "end_utc": "2026-07-23T18:30:00+00:00"
-  },
-  {
-    "id": "498254",
-    "uid": "498254@kexp.org",
-    "title": "Russian Blue LIVE on KEXP (OPEN TO THE PUBLIC)",
-    "url": "https://kexp.org/events/kexp-events/russian-blue-live-on-kexp-kexp_498254/",
-    "location": "KEXP Studio (NW Rooms)",
-    "start_utc": "2026-07-27T22:00:00+00:00",
-    "end_utc": "2026-07-27T22:30:00+00:00"
-  },
-  {
-    "id": "490810",
-    "uid": "490810@kexp.org",
-    "title": "WU LYF LIVE on KEXP (OPEN TO THE PUBLIC)",
-    "url": "https://kexp.org/events/kexp-events/wu-lyf-live-on-kexp-kexp_490810/",
-    "location": "KEXP Studio (NW Rooms)",
-    "start_utc": "2026-07-30T18:00:00+00:00",
-    "end_utc": "2026-07-30T18:30:00+00:00"
-  },
-  {
     "id": "498375",
     "uid": "498375@kexp.org",
     "title": "Widowspeak LIVE on KEXP (OPEN TO THE PUBLIC)",
@@ -54,9 +9,27 @@
     "end_utc": "2026-07-31T18:30:00+00:00"
   },
   {
+    "id": "504612",
+    "uid": "504612@kexp.org",
+    "title": "Ecca Vandal LIVE on KEXP",
+    "url": "https://kexp.org/events/kexp-events/ecca-vandal-live-on-kexp-kexp_504612/",
+    "location": "KEXP Studio (NW Rooms)",
+    "start_utc": "2026-08-03T16:30:00+00:00",
+    "end_utc": "2026-08-03T17:00:00+00:00"
+  },
+  {
+    "id": "504636",
+    "uid": "504636@kexp.org",
+    "title": "Prewn LIVE on KEXP",
+    "url": "https://kexp.org/events/kexp-events/prewn-live-on-kexp-kexp_504636/",
+    "location": "KEXP Studio (NW Rooms)",
+    "start_utc": "2026-08-04T18:00:00+00:00",
+    "end_utc": "2026-08-04T18:30:00+00:00"
+  },
+  {
     "id": "502273",
     "uid": "502273@kexp.org",
-    "title": "The Womack Sisters LIVE on KEXP",
+    "title": "The Womack Sisters LIVE on KEXP (OPEN TO THE PUBLIC)",
     "url": "https://kexp.org/events/kexp-events/the-womack-sisters-live-on-kexp-kexp_502273/",
     "location": "KEXP Studio (NW Rooms)",
     "start_utc": "2026-08-10T22:00:00+00:00",
@@ -65,7 +38,7 @@
   {
     "id": "500824",
     "uid": "500824@kexp.org",
-    "title": "Death Cab for Cutie LIVE on KEXP",
+    "title": "Death Cab for Cutie LIVE on KEXP (OPEN TO THE PUBLIC)",
     "url": "https://kexp.org/events/kexp-events/death-cab-for-cutie-live-on-kexp-kexp_500824/",
     "location": "KEXP Studio (NW Rooms)",
     "start_utc": "2026-09-07T18:00:00+00:00",
