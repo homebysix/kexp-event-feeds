@@ -7,29 +7,4 @@ X-WR-CALNAME:KEXP — Broadcast Only
 REFRESH-INTERVAL;VALUE=DURATION:PT24H
 X-PUBLISHED-TTL:PT24H
 X-WR-TIMEZONE:America/Los_Angeles
-BEGIN:VEVENT
-SUMMARY:Ecca Vandal LIVE on KEXP
-DTSTART:20260803T163000Z
-DTEND:20260803T170000Z
-DTSTAMP:20260803T043431Z
-UID:504612@kexp.org
-DESCRIPTION:https://kexp.org/events/kexp-events/ecca-vandal-live-on-kexp-k
- exp_504612/
-LAST-MODIFIED:20260803T043431Z
-LOCATION:KEXP Studio (NW Rooms)
-URL:https://kexp.org/events/kexp-events/ecca-vandal-live-on-kexp-kexp_5046
- 12/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Prewn LIVE on KEXP
-DTSTART:20260804T180000Z
-DTEND:20260804T183000Z
-DTSTAMP:20260803T043431Z
-UID:504636@kexp.org
-DESCRIPTION:https://kexp.org/events/kexp-events/prewn-live-on-kexp-kexp_50
- 4636/
-LAST-MODIFIED:20260803T043431Z
-LOCATION:KEXP Studio (NW Rooms)
-URL:https://kexp.org/events/kexp-events/prewn-live-on-kexp-kexp_504636/
-END:VEVENT
 END:VCALENDAR
