@@ -27,6 +27,15 @@
     "end_utc": "2026-08-10T22:30:00+00:00"
   },
   {
+    "id": "505772",
+    "uid": "505772@kexp.org",
+    "title": "zzzahara LIVE on KEXP",
+    "url": "https://kexp.org/events/kexp-events/zzzahara-live-on-kexp-kexp_505772/",
+    "location": "KEXP Studio (NW Rooms)",
+    "start_utc": "2026-08-13T18:00:00+00:00",
+    "end_utc": "2026-08-13T18:30:00+00:00"
+  },
+  {
     "id": "500824",
     "uid": "500824@kexp.org",
     "title": "Death Cab for Cutie LIVE on KEXP (OPEN TO THE PUBLIC)",
@@ -34,5 +43,32 @@
     "location": "KEXP Studio (NW Rooms)",
     "start_utc": "2026-09-07T18:00:00+00:00",
     "end_utc": "2026-09-07T18:30:00+00:00"
+  },
+  {
+    "id": "505827",
+    "uid": "505827@kexp.org",
+    "title": "Iguana Death Cult LIVE on KEXP",
+    "url": "https://kexp.org/events/kexp-events/iguana-death-cult-live-on-kexp-kexp_505827/",
+    "location": "KEXP Studio (NW Rooms)",
+    "start_utc": "2026-09-23T18:00:00+00:00",
+    "end_utc": "2026-09-23T18:30:00+00:00"
+  },
+  {
+    "id": "505848",
+    "uid": "505848@kexp.org",
+    "title": "Hermanos Guti\u00e9rrez LIVE in the KEXP Gathering Space",
+    "url": "https://kexp.org/events/kexp-events/hermanos-gutierrez-live-in-the-kexp-gathering-space-kexp_505848/",
+    "location": "KEXP Gathering Space",
+    "start_utc": "2026-09-25T19:00:00+00:00",
+    "end_utc": "2026-09-25T19:30:00+00:00"
+  },
+  {
+    "id": "505797",
+    "uid": "505797@kexp.org",
+    "title": "Genesis Owusu LIVE on KEXP",
+    "url": "https://kexp.org/events/kexp-events/genesis-owusu-live-on-kexp-kexp_505797/",
+    "location": "KEXP Studio (NW Rooms)",
+    "start_utc": "2026-11-09T19:00:00+00:00",
+    "end_utc": "2026-11-09T19:30:00+00:00"
   }
 ]

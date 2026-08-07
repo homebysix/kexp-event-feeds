@@ -7,4 +7,55 @@ X-WR-CALNAME:KEXP — Broadcast Only
 REFRESH-INTERVAL;VALUE=DURATION:PT24H
 X-PUBLISHED-TTL:PT24H
 X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VEVENT
+SUMMARY:zzzahara LIVE on KEXP
+DTSTART:20260813T180000Z
+DTEND:20260813T183000Z
+DTSTAMP:20260807T035342Z
+UID:505772@kexp.org
+DESCRIPTION:https://kexp.org/events/kexp-events/zzzahara-live-on-kexp-kexp
+ _505772/
+LAST-MODIFIED:20260807T035342Z
+LOCATION:KEXP Studio (NW Rooms)
+URL:https://kexp.org/events/kexp-events/zzzahara-live-on-kexp-kexp_505772/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Iguana Death Cult LIVE on KEXP
+DTSTART:20260923T180000Z
+DTEND:20260923T183000Z
+DTSTAMP:20260807T035342Z
+UID:505827@kexp.org
+DESCRIPTION:https://kexp.org/events/kexp-events/iguana-death-cult-live-on-
+ kexp-kexp_505827/
+LAST-MODIFIED:20260807T035342Z
+LOCATION:KEXP Studio (NW Rooms)
+URL:https://kexp.org/events/kexp-events/iguana-death-cult-live-on-kexp-kex
+ p_505827/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hermanos Gutiérrez LIVE in the KEXP Gathering Space
+DTSTART:20260925T190000Z
+DTEND:20260925T193000Z
+DTSTAMP:20260807T035342Z
+UID:505848@kexp.org
+DESCRIPTION:https://kexp.org/events/kexp-events/hermanos-gutierrez-live-in
+ -the-kexp-gathering-space-kexp_505848/
+LAST-MODIFIED:20260807T035342Z
+LOCATION:KEXP Gathering Space
+URL:https://kexp.org/events/kexp-events/hermanos-gutierrez-live-in-the-kex
+ p-gathering-space-kexp_505848/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Genesis Owusu LIVE on KEXP
+DTSTART:20261109T190000Z
+DTEND:20261109T193000Z
+DTSTAMP:20260807T035342Z
+UID:505797@kexp.org
+DESCRIPTION:https://kexp.org/events/kexp-events/genesis-owusu-live-on-kexp
+ -kexp_505797/
+LAST-MODIFIED:20260807T035342Z
+LOCATION:KEXP Studio (NW Rooms)
+URL:https://kexp.org/events/kexp-events/genesis-owusu-live-on-kexp-kexp_50
+ 5797/
+END:VEVENT
 END:VCALENDAR
