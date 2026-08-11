@@ -29,11 +29,20 @@
   {
     "id": "505772",
     "uid": "505772@kexp.org",
-    "title": "zzzahara LIVE on KEXP",
+    "title": "zzzahara LIVE on KEXP (OPEN TO THE PUBLIC)",
     "url": "https://kexp.org/events/kexp-events/zzzahara-live-on-kexp-kexp_505772/",
     "location": "KEXP Studio (NW Rooms)",
     "start_utc": "2026-08-13T18:00:00+00:00",
     "end_utc": "2026-08-13T18:30:00+00:00"
+  },
+  {
+    "id": "506396",
+    "uid": "506396@kexp.org",
+    "title": "Helado Tropical LIVE on KEXP (OPEN TO THE PUBLIC)",
+    "url": "https://kexp.org/events/kexp-events/helado-tropical-live-on-kexp-kexp_506396/",
+    "location": "KEXP Studio (NW Rooms)",
+    "start_utc": "2026-08-18T18:00:00+00:00",
+    "end_utc": "2026-08-18T18:30:00+00:00"
   },
   {
     "id": "500824",
