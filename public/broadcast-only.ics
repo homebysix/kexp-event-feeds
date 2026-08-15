@@ -11,11 +11,11 @@ BEGIN:VEVENT
 SUMMARY:Iguana Death Cult LIVE on KEXP
 DTSTART:20260923T180000Z
 DTEND:20260923T183000Z
-DTSTAMP:20260814T032545Z
+DTSTAMP:20260815T021543Z
 UID:505827@kexp.org
 DESCRIPTION:https://kexp.org/events/kexp-events/iguana-death-cult-live-on-
  kexp-kexp_505827/
-LAST-MODIFIED:20260814T032545Z
+LAST-MODIFIED:20260815T021543Z
 LOCATION:KEXP Studio (NW Rooms)
 URL:https://kexp.org/events/kexp-events/iguana-death-cult-live-on-kexp-kex
  p_505827/
@@ -24,11 +24,11 @@ BEGIN:VEVENT
 SUMMARY:Hermanos Gutiérrez LIVE in the KEXP Gathering Space
 DTSTART:20260925T190000Z
 DTEND:20260925T193000Z
-DTSTAMP:20260814T032545Z
+DTSTAMP:20260815T021543Z
 UID:505848@kexp.org
 DESCRIPTION:https://kexp.org/events/kexp-events/hermanos-gutierrez-live-in
  -the-kexp-gathering-space-kexp_505848/
-LAST-MODIFIED:20260814T032545Z
+LAST-MODIFIED:20260815T021543Z
 LOCATION:KEXP Gathering Space
 URL:https://kexp.org/events/kexp-events/hermanos-gutierrez-live-in-the-kex
  p-gathering-space-kexp_505848/
@@ -37,11 +37,11 @@ BEGIN:VEVENT
 SUMMARY:Genesis Owusu LIVE on KEXP
 DTSTART:20261109T190000Z
 DTEND:20261109T193000Z
-DTSTAMP:20260814T032545Z
+DTSTAMP:20260815T021543Z
 UID:505797@kexp.org
 DESCRIPTION:https://kexp.org/events/kexp-events/genesis-owusu-live-on-kexp
  -kexp_505797/
-LAST-MODIFIED:20260814T032545Z
+LAST-MODIFIED:20260815T021543Z
 LOCATION:KEXP Studio (NW Rooms)
 URL:https://kexp.org/events/kexp-events/genesis-owusu-live-on-kexp-kexp_50
  5797/
