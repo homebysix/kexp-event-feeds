@@ -8,14 +8,14 @@ REFRESH-INTERVAL;VALUE=DURATION:PT24H
 X-PUBLISHED-TTL:PT24H
 X-WR-TIMEZONE:America/Los_Angeles
 BEGIN:VEVENT
-SUMMARY:Hermanos Gutiérrez LIVE in the KEXP Gathering Space
+SUMMARY:Hermanos Gutiérrez LIVE (GATHERING SPACE)
 DTSTART:20260925T190000Z
 DTEND:20260925T193000Z
-DTSTAMP:20260817T022137Z
+DTSTAMP:20260818T021720Z
 UID:505848@kexp.org
 DESCRIPTION:https://kexp.org/events/kexp-events/hermanos-gutierrez-live-in
  -the-kexp-gathering-space-kexp_505848/
-LAST-MODIFIED:20260817T022137Z
+LAST-MODIFIED:20260818T021720Z
 LOCATION:KEXP Gathering Space
 URL:https://kexp.org/events/kexp-events/hermanos-gutierrez-live-in-the-kex
  p-gathering-space-kexp_505848/
