@@ -11,11 +11,11 @@ BEGIN:VEVENT
 SUMMARY:zzzahara LIVE on KEXP (OPEN TO THE PUBLIC)
 DTSTART:20260813T180000Z
 DTEND:20260813T183000Z
-DTSTAMP:20260819T022000Z
+DTSTAMP:20260820T021900Z
 UID:505772@kexp.org
 DESCRIPTION:https://kexp.org/events/kexp-events/zzzahara-live-on-kexp-kexp
  _505772/
-LAST-MODIFIED:20260819T022000Z
+LAST-MODIFIED:20260820T021900Z
 LOCATION:KEXP Studio (NW Rooms)
 URL:https://kexp.org/events/kexp-events/zzzahara-live-on-kexp-kexp_505772/
 END:VEVENT
@@ -23,11 +23,11 @@ BEGIN:VEVENT
 SUMMARY:Helado Tropical LIVE on KEXP (OPEN TO THE PUBLIC)
 DTSTART:20260818T180000Z
 DTEND:20260818T183000Z
-DTSTAMP:20260819T022000Z
+DTSTAMP:20260820T021900Z
 UID:506396@kexp.org
 DESCRIPTION:https://kexp.org/events/kexp-events/helado-tropical-live-on-ke
  xp-kexp_506396/
-LAST-MODIFIED:20260819T022000Z
+LAST-MODIFIED:20260820T021900Z
 LOCATION:KEXP Studio (NW Rooms)
 URL:https://kexp.org/events/kexp-events/helado-tropical-live-on-kexp-kexp_
  506396/
@@ -36,11 +36,11 @@ BEGIN:VEVENT
 SUMMARY:Death Cab for Cutie LIVE on KEXP (OPEN TO THE PUBLIC)
 DTSTART:20260907T180000Z
 DTEND:20260907T183000Z
-DTSTAMP:20260819T022000Z
+DTSTAMP:20260820T021900Z
 UID:500824@kexp.org
 DESCRIPTION:https://kexp.org/events/kexp-events/death-cab-for-cutie-live-o
  n-kexp-kexp_500824/
-LAST-MODIFIED:20260819T022000Z
+LAST-MODIFIED:20260820T021900Z
 LOCATION:KEXP Studio (NW Rooms)
 URL:https://kexp.org/events/kexp-events/death-cab-for-cutie-live-on-kexp-k
  exp_500824/
@@ -49,11 +49,11 @@ BEGIN:VEVENT
 SUMMARY:Iguana Death Cult LIVE on KEXP (OPEN TO THE PUBLIC)
 DTSTART:20260923T180000Z
 DTEND:20260923T183000Z
-DTSTAMP:20260819T022000Z
+DTSTAMP:20260820T021900Z
 UID:505827@kexp.org
 DESCRIPTION:https://kexp.org/events/kexp-events/iguana-death-cult-live-on-
  kexp-kexp_505827/
-LAST-MODIFIED:20260819T022000Z
+LAST-MODIFIED:20260820T021900Z
 LOCATION:KEXP Studio (NW Rooms)
 URL:https://kexp.org/events/kexp-events/iguana-death-cult-live-on-kexp-kex
  p_505827/
@@ -62,11 +62,11 @@ BEGIN:VEVENT
 SUMMARY:Hermanos Gutiérrez LIVE (GATHERING SPACE)
 DTSTART:20260925T190000Z
 DTEND:20260925T193000Z
-DTSTAMP:20260819T022000Z
+DTSTAMP:20260820T021900Z
 UID:505848@kexp.org
 DESCRIPTION:https://kexp.org/events/kexp-events/hermanos-gutierrez-live-in
  -the-kexp-gathering-space-kexp_505848/
-LAST-MODIFIED:20260819T022000Z
+LAST-MODIFIED:20260820T021900Z
 LOCATION:KEXP Gathering Space
 URL:https://kexp.org/events/kexp-events/hermanos-gutierrez-live-in-the-kex
  p-gathering-space-kexp_505848/
@@ -75,11 +75,11 @@ BEGIN:VEVENT
 SUMMARY:Genesis Owusu LIVE on KEXP
 DTSTART:20261109T190000Z
 DTEND:20261109T193000Z
-DTSTAMP:20260819T022000Z
+DTSTAMP:20260820T021900Z
 UID:505797@kexp.org
 DESCRIPTION:https://kexp.org/events/kexp-events/genesis-owusu-live-on-kexp
  -kexp_505797/
-LAST-MODIFIED:20260819T022000Z
+LAST-MODIFIED:20260820T021900Z
 LOCATION:KEXP Studio (NW Rooms)
 URL:https://kexp.org/events/kexp-events/genesis-owusu-live-on-kexp-kexp_50
  5797/
