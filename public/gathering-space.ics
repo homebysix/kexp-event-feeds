@@ -8,14 +8,27 @@ REFRESH-INTERVAL;VALUE=DURATION:PT24H
 X-PUBLISHED-TTL:PT24H
 X-WR-TIMEZONE:America/Los_Angeles
 BEGIN:VEVENT
+SUMMARY:OSEES LIVE in the KEXP Gathering Space (OPEN TO THE PUBLIC)
+DTSTART:20260904T220000Z
+DTEND:20260904T223000Z
+DTSTAMP:20260903T053607Z
+UID:510564@kexp.org
+DESCRIPTION:https://kexp.org/events/kexp-events/osees-live-in-the-kexp-gat
+ hering-space-kexp_510564/
+LAST-MODIFIED:20260903T053607Z
+LOCATION:KEXP Gathering Space
+URL:https://kexp.org/events/kexp-events/osees-live-in-the-kexp-gathering-s
+ pace-kexp_510564/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Hermanos Gutiérrez LIVE (GATHERING SPACE)
 DTSTART:20260925T190000Z
 DTEND:20260925T193000Z
-DTSTAMP:20260902T053558Z
+DTSTAMP:20260903T053607Z
 UID:505848@kexp.org
 DESCRIPTION:https://kexp.org/events/kexp-events/hermanos-gutierrez-live-in
  -the-kexp-gathering-space-kexp_505848/
-LAST-MODIFIED:20260902T053558Z
+LAST-MODIFIED:20260903T053607Z
 LOCATION:KEXP Gathering Space
 URL:https://kexp.org/events/kexp-events/hermanos-gutierrez-live-in-the-kex
  p-gathering-space-kexp_505848/
