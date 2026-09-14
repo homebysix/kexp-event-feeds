@@ -18,6 +18,15 @@
     "end_utc": "2026-08-18T18:30:00+00:00"
   },
   {
+    "id": "510564",
+    "uid": "510564@kexp.org",
+    "title": "OSEES LIVE in the KEXP Gathering Space (OPEN TO THE PUBLIC)",
+    "url": "https://kexp.org/events/kexp-events/osees-live-in-the-kexp-gathering-space-kexp_510564/",
+    "location": "KEXP Gathering Space",
+    "start_utc": "2026-09-04T22:00:00+00:00",
+    "end_utc": "2026-09-04T22:30:00+00:00"
+  },
+  {
     "id": "500824",
     "uid": "500824@kexp.org",
     "title": "Death Cab for Cutie LIVE on KEXP (OPEN TO THE PUBLIC)",
@@ -25,6 +34,60 @@
     "location": "KEXP Studio (NW Rooms)",
     "start_utc": "2026-09-07T18:00:00+00:00",
     "end_utc": "2026-09-07T18:30:00+00:00"
+  },
+  {
+    "id": "511072",
+    "uid": "511072@kexp.org",
+    "title": "Haute & Freddy LIVE on KEXP (OPEN TO THE PUBLIC)",
+    "url": "https://kexp.org/events/kexp-events/haute-freddy-live-on-kexp-kexp_511072/",
+    "location": "KEXP Studio (NW Rooms)",
+    "start_utc": "2026-09-08T22:00:00+00:00",
+    "end_utc": "2026-09-08T22:30:00+00:00"
+  },
+  {
+    "id": "511084",
+    "uid": "511084@kexp.org",
+    "title": "Alt\u0131n G\u00fcn LIVE on KEXP (OPEN TO THE PUBLIC)",
+    "url": "https://kexp.org/events/kexp-events/altn-gun-live-on-kexp-kexp_511084/",
+    "location": "KEXP Studio (NW Rooms)",
+    "start_utc": "2026-09-09T18:00:00+00:00",
+    "end_utc": "2026-09-09T18:30:00+00:00"
+  },
+  {
+    "id": "511085",
+    "uid": "511085@kexp.org",
+    "title": "Shabazz Palaces LIVE on KEXP (OPEN TO THE PUBLIC)",
+    "url": "https://kexp.org/events/kexp-events/shabazz-palaces-live-on-kexp-kexp_511085/",
+    "location": "KEXP Studio (NW Rooms)",
+    "start_utc": "2026-09-10T22:00:00+00:00",
+    "end_utc": "2026-09-10T22:30:00+00:00"
+  },
+  {
+    "id": "511109",
+    "uid": "511109@kexp.org",
+    "title": "anaiis LIVE on KEXP (OPEN TO THE PUBLIC)",
+    "url": "https://kexp.org/events/kexp-events/anaiis-live-on-kexp-kexp_511109/",
+    "location": "KEXP Studio (NW Rooms)",
+    "start_utc": "2026-09-15T21:00:00+00:00",
+    "end_utc": "2026-09-15T21:30:00+00:00"
+  },
+  {
+    "id": "513281",
+    "uid": "513281@kexp.org",
+    "title": "Chelsea Wolfe LIVE on KEXP",
+    "url": "https://kexp.org/events/kexp-events/chelsea-wolfe-live-on-kexp-kexp_513281/",
+    "location": "KEXP Studio (NW Rooms)",
+    "start_utc": "2026-09-18T18:00:00+00:00",
+    "end_utc": "2026-09-18T18:30:00+00:00"
+  },
+  {
+    "id": "511121",
+    "uid": "511121@kexp.org",
+    "title": "Sweeping Promises LIVE on KEXP (OPEN TO THE PUBLIC)",
+    "url": "https://kexp.org/events/kexp-events/sweeping-promises-live-on-kexp-kexp_511121/",
+    "location": "KEXP Studio (NW Rooms)",
+    "start_utc": "2026-09-21T22:00:00+00:00",
+    "end_utc": "2026-09-21T22:30:00+00:00"
   },
   {
     "id": "505827",
@@ -47,7 +110,7 @@
   {
     "id": "505797",
     "uid": "505797@kexp.org",
-    "title": "Genesis Owusu LIVE on KEXP",
+    "title": "Genesis Owusu LIVE on KEXP (OPEN TO THE PUBLIC)",
     "url": "https://kexp.org/events/kexp-events/genesis-owusu-live-on-kexp-kexp_505797/",
     "location": "KEXP Studio (NW Rooms)",
     "start_utc": "2026-11-09T19:00:00+00:00",

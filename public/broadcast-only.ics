@@ -8,16 +8,16 @@ REFRESH-INTERVAL;VALUE=DURATION:PT24H
 X-PUBLISHED-TTL:PT24H
 X-WR-TIMEZONE:America/Los_Angeles
 BEGIN:VEVENT
-SUMMARY:Genesis Owusu LIVE on KEXP
-DTSTART:20261109T190000Z
-DTEND:20261109T193000Z
-DTSTAMP:20260825T021933Z
-UID:505797@kexp.org
-DESCRIPTION:https://kexp.org/events/kexp-events/genesis-owusu-live-on-kexp
- -kexp_505797/
-LAST-MODIFIED:20260825T021933Z
+SUMMARY:Chelsea Wolfe LIVE on KEXP
+DTSTART:20260918T180000Z
+DTEND:20260918T183000Z
+DTSTAMP:20260914T055845Z
+UID:513281@kexp.org
+DESCRIPTION:https://kexp.org/events/kexp-events/chelsea-wolfe-live-on-kexp
+ -kexp_513281/
+LAST-MODIFIED:20260914T055845Z
 LOCATION:KEXP Studio (NW Rooms)
-URL:https://kexp.org/events/kexp-events/genesis-owusu-live-on-kexp-kexp_50
- 5797/
+URL:https://kexp.org/events/kexp-events/chelsea-wolfe-live-on-kexp-kexp_51
+ 3281/
 END:VEVENT
 END:VCALENDAR
