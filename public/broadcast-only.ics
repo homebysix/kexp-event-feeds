@@ -8,16 +8,16 @@ REFRESH-INTERVAL;VALUE=DURATION:PT24H
 X-PUBLISHED-TTL:PT24H
 X-WR-TIMEZONE:America/Los_Angeles
 BEGIN:VEVENT
-SUMMARY:Chelsea Wolfe LIVE on KEXP
-DTSTART:20260918T180000Z
-DTEND:20260918T183000Z
-DTSTAMP:20260914T055845Z
-UID:513281@kexp.org
-DESCRIPTION:https://kexp.org/events/kexp-events/chelsea-wolfe-live-on-kexp
- -kexp_513281/
-LAST-MODIFIED:20260914T055845Z
+SUMMARY:Kelsey Lu LIVE on KEXP
+DTSTART:20261013T180000Z
+DTEND:20261013T183000Z
+DTSTAMP:20260917T055656Z
+UID:513734@kexp.org
+DESCRIPTION:https://kexp.org/events/kexp-events/kelsey-lu-live-on-kexp-kex
+ p_513734/
+LAST-MODIFIED:20260917T055656Z
 LOCATION:KEXP Studio (NW Rooms)
-URL:https://kexp.org/events/kexp-events/chelsea-wolfe-live-on-kexp-kexp_51
- 3281/
+URL:https://kexp.org/events/kexp-events/kelsey-lu-live-on-kexp-kexp_513734
+ /
 END:VEVENT
 END:VCALENDAR
