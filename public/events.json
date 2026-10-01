@@ -45,13 +45,31 @@
     "end_utc": "2026-09-25T19:30:00+00:00"
   },
   {
+    "id": "516132",
+    "uid": "516132@kexp.org",
+    "title": "Nick Hakim LIVE on KEXP (OPEN TO THE PUBLIC)",
+    "url": "https://kexp.org/events/kexp-events/nick-hakim-live-on-kexp-kexp_516132/",
+    "location": "KEXP Studio (NW Rooms)",
+    "start_utc": "2026-10-02T22:00:00+00:00",
+    "end_utc": "2026-10-02T22:30:00+00:00"
+  },
+  {
     "id": "513734",
     "uid": "513734@kexp.org",
-    "title": "Kelsey Lu LIVE on KEXP",
+    "title": "Kelsey Lu LIVE on KEXP (OPEN TO THE PUBLIC)",
     "url": "https://kexp.org/events/kexp-events/kelsey-lu-live-on-kexp-kexp_513734/",
     "location": "KEXP Studio (NW Rooms)",
     "start_utc": "2026-10-13T18:00:00+00:00",
     "end_utc": "2026-10-13T18:30:00+00:00"
+  },
+  {
+    "id": "516648",
+    "uid": "516648@kexp.org",
+    "title": "Ken Pomeroy LIVE on KEXP",
+    "url": "https://kexp.org/events/kexp-events/ken-pomeroy-live-on-kexp-kexp_516648/",
+    "location": "KEXP Studio (NW Rooms)",
+    "start_utc": "2026-10-14T18:00:00+00:00",
+    "end_utc": "2026-10-14T18:30:00+00:00"
   },
   {
     "id": "505797",

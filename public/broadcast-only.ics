@@ -8,16 +8,16 @@ REFRESH-INTERVAL;VALUE=DURATION:PT24H
 X-PUBLISHED-TTL:PT24H
 X-WR-TIMEZONE:America/Los_Angeles
 BEGIN:VEVENT
-SUMMARY:Kelsey Lu LIVE on KEXP
-DTSTART:20261013T180000Z
-DTEND:20261013T183000Z
-DTSTAMP:20260917T055656Z
-UID:513734@kexp.org
-DESCRIPTION:https://kexp.org/events/kexp-events/kelsey-lu-live-on-kexp-kex
- p_513734/
-LAST-MODIFIED:20260917T055656Z
+SUMMARY:Ken Pomeroy LIVE on KEXP
+DTSTART:20261014T180000Z
+DTEND:20261014T183000Z
+DTSTAMP:20261001T070415Z
+UID:516648@kexp.org
+DESCRIPTION:https://kexp.org/events/kexp-events/ken-pomeroy-live-on-kexp-k
+ exp_516648/
+LAST-MODIFIED:20261001T070415Z
 LOCATION:KEXP Studio (NW Rooms)
-URL:https://kexp.org/events/kexp-events/kelsey-lu-live-on-kexp-kexp_513734
- /
+URL:https://kexp.org/events/kexp-events/ken-pomeroy-live-on-kexp-kexp_5166
+ 48/
 END:VEVENT
 END:VCALENDAR
