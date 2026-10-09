@@ -1,59 +1,5 @@
 [
   {
-    "id": "511109",
-    "uid": "511109@kexp.org",
-    "title": "anaiis LIVE on KEXP (OPEN TO THE PUBLIC)",
-    "url": "https://kexp.org/events/kexp-events/anaiis-live-on-kexp-kexp_511109/",
-    "location": "KEXP Studio (NW Rooms)",
-    "start_utc": "2026-09-15T21:00:00+00:00",
-    "end_utc": "2026-09-15T21:30:00+00:00"
-  },
-  {
-    "id": "513281",
-    "uid": "513281@kexp.org",
-    "title": "Chelsea Wolfe LIVE on KEXP (OPEN TO THE PUBLIC)",
-    "url": "https://kexp.org/events/kexp-events/chelsea-wolfe-live-on-kexp-kexp_513281/",
-    "location": "KEXP Studio (NW Rooms)",
-    "start_utc": "2026-09-18T18:00:00+00:00",
-    "end_utc": "2026-09-18T18:30:00+00:00"
-  },
-  {
-    "id": "511121",
-    "uid": "511121@kexp.org",
-    "title": "Sweeping Promises LIVE on KEXP (OPEN TO THE PUBLIC)",
-    "url": "https://kexp.org/events/kexp-events/sweeping-promises-live-on-kexp-kexp_511121/",
-    "location": "KEXP Studio (NW Rooms)",
-    "start_utc": "2026-09-21T22:00:00+00:00",
-    "end_utc": "2026-09-21T22:30:00+00:00"
-  },
-  {
-    "id": "505827",
-    "uid": "505827@kexp.org",
-    "title": "Iguana Death Cult LIVE on KEXP (OPEN TO THE PUBLIC)",
-    "url": "https://kexp.org/events/kexp-events/iguana-death-cult-live-on-kexp-kexp_505827/",
-    "location": "KEXP Studio (NW Rooms)",
-    "start_utc": "2026-09-23T18:00:00+00:00",
-    "end_utc": "2026-09-23T18:30:00+00:00"
-  },
-  {
-    "id": "505848",
-    "uid": "505848@kexp.org",
-    "title": "Hermanos Guti\u00e9rrez LIVE (GATHERING SPACE)",
-    "url": "https://kexp.org/events/kexp-events/hermanos-gutierrez-live-in-the-kexp-gathering-space-kexp_505848/",
-    "location": "KEXP Gathering Space",
-    "start_utc": "2026-09-25T19:00:00+00:00",
-    "end_utc": "2026-09-25T19:30:00+00:00"
-  },
-  {
-    "id": "516132",
-    "uid": "516132@kexp.org",
-    "title": "Nick Hakim LIVE on KEXP (OPEN TO THE PUBLIC)",
-    "url": "https://kexp.org/events/kexp-events/nick-hakim-live-on-kexp-kexp_516132/",
-    "location": "KEXP Studio (NW Rooms)",
-    "start_utc": "2026-10-02T22:00:00+00:00",
-    "end_utc": "2026-10-02T22:30:00+00:00"
-  },
-  {
     "id": "513734",
     "uid": "513734@kexp.org",
     "title": "Kelsey Lu LIVE on KEXP (OPEN TO THE PUBLIC)",
@@ -65,11 +11,38 @@
   {
     "id": "516648",
     "uid": "516648@kexp.org",
-    "title": "Ken Pomeroy LIVE on KEXP",
+    "title": "Ken Pomeroy LIVE on KEXP (OPEN TO THE PUBLIC)",
     "url": "https://kexp.org/events/kexp-events/ken-pomeroy-live-on-kexp-kexp_516648/",
     "location": "KEXP Studio (NW Rooms)",
     "start_utc": "2026-10-14T18:00:00+00:00",
     "end_utc": "2026-10-14T18:30:00+00:00"
+  },
+  {
+    "id": "519063",
+    "uid": "519063@kexp.org",
+    "title": "Francis of Delirium LIVE on KEXP",
+    "url": "https://kexp.org/events/kexp-events/francis-of-delirium-live-on-kexp-kexp_519063/",
+    "location": "KEXP Studio (NW Rooms)",
+    "start_utc": "2026-10-26T18:00:00+00:00",
+    "end_utc": "2026-10-26T18:30:00+00:00"
+  },
+  {
+    "id": "519064",
+    "uid": "519064@kexp.org",
+    "title": "Modest Mouse LIVE on KEXP",
+    "url": "https://kexp.org/events/kexp-events/modest-mouse-live-on-kexp-kexp_519064/",
+    "location": "KEXP Studio (NW Rooms)",
+    "start_utc": "2026-10-27T19:00:00+00:00",
+    "end_utc": "2026-10-27T19:30:00+00:00"
+  },
+  {
+    "id": "519088",
+    "uid": "519088@kexp.org",
+    "title": "THAO LIVE on KEXP",
+    "url": "https://kexp.org/events/kexp-events/thao-live-on-kexp-kexp_519088/",
+    "location": "KEXP Studio (NW Rooms)",
+    "start_utc": "2026-10-29T18:00:00+00:00",
+    "end_utc": "2026-10-29T18:30:00+00:00"
   },
   {
     "id": "505797",

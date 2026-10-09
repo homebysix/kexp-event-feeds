@@ -8,16 +8,41 @@ REFRESH-INTERVAL;VALUE=DURATION:PT24H
 X-PUBLISHED-TTL:PT24H
 X-WR-TIMEZONE:America/Los_Angeles
 BEGIN:VEVENT
-SUMMARY:Ken Pomeroy LIVE on KEXP
-DTSTART:20261014T180000Z
-DTEND:20261014T183000Z
-DTSTAMP:20261001T070415Z
-UID:516648@kexp.org
-DESCRIPTION:https://kexp.org/events/kexp-events/ken-pomeroy-live-on-kexp-k
- exp_516648/
-LAST-MODIFIED:20261001T070415Z
+SUMMARY:Francis of Delirium LIVE on KEXP
+DTSTART:20261026T180000Z
+DTEND:20261026T183000Z
+DTSTAMP:20261009T071559Z
+UID:519063@kexp.org
+DESCRIPTION:https://kexp.org/events/kexp-events/francis-of-delirium-live-o
+ n-kexp-kexp_519063/
+LAST-MODIFIED:20261009T071559Z
 LOCATION:KEXP Studio (NW Rooms)
-URL:https://kexp.org/events/kexp-events/ken-pomeroy-live-on-kexp-kexp_5166
- 48/
+URL:https://kexp.org/events/kexp-events/francis-of-delirium-live-on-kexp-k
+ exp_519063/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Modest Mouse LIVE on KEXP
+DTSTART:20261027T190000Z
+DTEND:20261027T193000Z
+DTSTAMP:20261009T071559Z
+UID:519064@kexp.org
+DESCRIPTION:https://kexp.org/events/kexp-events/modest-mouse-live-on-kexp-
+ kexp_519064/
+LAST-MODIFIED:20261009T071559Z
+LOCATION:KEXP Studio (NW Rooms)
+URL:https://kexp.org/events/kexp-events/modest-mouse-live-on-kexp-kexp_519
+ 064/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:THAO LIVE on KEXP
+DTSTART:20261029T180000Z
+DTEND:20261029T183000Z
+DTSTAMP:20261009T071559Z
+UID:519088@kexp.org
+DESCRIPTION:https://kexp.org/events/kexp-events/thao-live-on-kexp-kexp_519
+ 088/
+LAST-MODIFIED:20261009T071559Z
+LOCATION:KEXP Studio (NW Rooms)
+URL:https://kexp.org/events/kexp-events/thao-live-on-kexp-kexp_519088/
 END:VEVENT
 END:VCALENDAR
