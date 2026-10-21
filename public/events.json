@@ -1,26 +1,8 @@
 [
   {
-    "id": "513734",
-    "uid": "513734@kexp.org",
-    "title": "Kelsey Lu LIVE on KEXP (OPEN TO THE PUBLIC)",
-    "url": "https://kexp.org/events/kexp-events/kelsey-lu-live-on-kexp-kexp_513734/",
-    "location": "KEXP Studio (NW Rooms)",
-    "start_utc": "2026-10-13T18:00:00+00:00",
-    "end_utc": "2026-10-13T18:30:00+00:00"
-  },
-  {
-    "id": "516648",
-    "uid": "516648@kexp.org",
-    "title": "Ken Pomeroy LIVE on KEXP (OPEN TO THE PUBLIC)",
-    "url": "https://kexp.org/events/kexp-events/ken-pomeroy-live-on-kexp-kexp_516648/",
-    "location": "KEXP Studio (NW Rooms)",
-    "start_utc": "2026-10-14T18:00:00+00:00",
-    "end_utc": "2026-10-14T18:30:00+00:00"
-  },
-  {
     "id": "519063",
     "uid": "519063@kexp.org",
-    "title": "Francis of Delirium LIVE on KEXP",
+    "title": "Francis of Delirium LIVE on KEXP (OPEN TO THE PUBLIC)",
     "url": "https://kexp.org/events/kexp-events/francis-of-delirium-live-on-kexp-kexp_519063/",
     "location": "KEXP Studio (NW Rooms)",
     "start_utc": "2026-10-26T18:00:00+00:00",
@@ -29,7 +11,7 @@
   {
     "id": "519064",
     "uid": "519064@kexp.org",
-    "title": "Modest Mouse LIVE on KEXP",
+    "title": "Modest Mouse LIVE on KEXP (OPEN TO THE PUBLIC)",
     "url": "https://kexp.org/events/kexp-events/modest-mouse-live-on-kexp-kexp_519064/",
     "location": "KEXP Studio (NW Rooms)",
     "start_utc": "2026-10-27T19:00:00+00:00",
@@ -38,11 +20,47 @@
   {
     "id": "519088",
     "uid": "519088@kexp.org",
-    "title": "THAO LIVE on KEXP",
+    "title": "THAO LIVE on KEXP (OPEN TO THE PUBLIC)",
     "url": "https://kexp.org/events/kexp-events/thao-live-on-kexp-kexp_519088/",
     "location": "KEXP Studio (NW Rooms)",
     "start_utc": "2026-10-29T18:00:00+00:00",
     "end_utc": "2026-10-29T18:30:00+00:00"
+  },
+  {
+    "id": "521488",
+    "uid": "521488@kexp.org",
+    "title": "Greg Freeman LIVE on KEXP",
+    "url": "https://kexp.org/events/kexp-events/greg-freeman-live-on-kexp-kexp_521488/",
+    "location": "KEXP Studio (NW Rooms)",
+    "start_utc": "2026-11-02T20:00:00+00:00",
+    "end_utc": "2026-11-02T20:30:00+00:00"
+  },
+  {
+    "id": "521489",
+    "uid": "521489@kexp.org",
+    "title": "Lime Garden LIVE on KEXP",
+    "url": "https://kexp.org/events/kexp-events/lime-garden-live-on-kexp-kexp_521489/",
+    "location": "KEXP Studio (NW Rooms)",
+    "start_utc": "2026-11-03T20:00:00+00:00",
+    "end_utc": "2026-11-03T20:30:00+00:00"
+  },
+  {
+    "id": "521549",
+    "uid": "521549@kexp.org",
+    "title": "Dabda LIVE on KEXP",
+    "url": "https://kexp.org/events/kexp-events/dabda-live-on-kexp-kexp_521549/",
+    "location": "KEXP Studio (NW Rooms)",
+    "start_utc": "2026-11-05T00:00:00+00:00",
+    "end_utc": "2026-11-05T00:30:00+00:00"
+  },
+  {
+    "id": "521562",
+    "uid": "521562@kexp.org",
+    "title": "Downtown Boys LIVE on KEXP",
+    "url": "https://kexp.org/events/kexp-events/downtown-boys-live-on-kexp-kexp_521562/",
+    "location": "KEXP Studio (NW Rooms)",
+    "start_utc": "2026-11-06T19:00:00+00:00",
+    "end_utc": "2026-11-06T19:30:00+00:00"
   },
   {
     "id": "505797",
@@ -52,5 +70,14 @@
     "location": "KEXP Studio (NW Rooms)",
     "start_utc": "2026-11-09T19:00:00+00:00",
     "end_utc": "2026-11-09T19:30:00+00:00"
+  },
+  {
+    "id": "521452",
+    "uid": "521452@kexp.org",
+    "title": "Allison Russell LIVE on KEXP",
+    "url": "https://kexp.org/events/kexp-events/allison-russell-live-on-kexp-kexp_521452/",
+    "location": "KEXP Studio (NW Rooms)",
+    "start_utc": "2026-11-10T23:00:00+00:00",
+    "end_utc": "2026-11-10T23:30:00+00:00"
   }
 ]
