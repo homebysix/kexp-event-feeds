@@ -8,67 +8,29 @@ REFRESH-INTERVAL;VALUE=DURATION:PT24H
 X-PUBLISHED-TTL:PT24H
 X-WR-TIMEZONE:America/Los_Angeles
 BEGIN:VEVENT
-SUMMARY:Greg Freeman LIVE on KEXP
-DTSTART:20261102T200000Z
-DTEND:20261102T203000Z
-DTSTAMP:20261026T055406Z
-UID:521488@kexp.org
-DESCRIPTION:https://kexp.org/events/kexp-events/greg-freeman-live-on-kexp-
- kexp_521488/
-LAST-MODIFIED:20261026T055406Z
+SUMMARY:Sassy 009 LIVE on KEXP
+DTSTART:20261111T190000Z
+DTEND:20261111T193000Z
+DTSTAMP:20261111T073826Z
+UID:525615@kexp.org
+DESCRIPTION:https://kexp.org/events/kexp-events/sassy-009-live-on-kexp-kex
+ p_525615/
+LAST-MODIFIED:20261111T073826Z
 LOCATION:KEXP Studio (NW Rooms)
-URL:https://kexp.org/events/kexp-events/greg-freeman-live-on-kexp-kexp_521
- 488/
+URL:https://kexp.org/events/kexp-events/sassy-009-live-on-kexp-kexp_525615
+ /
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lime Garden LIVE on KEXP
-DTSTART:20261103T200000Z
-DTEND:20261103T203000Z
-DTSTAMP:20261026T055406Z
-UID:521489@kexp.org
-DESCRIPTION:https://kexp.org/events/kexp-events/lime-garden-live-on-kexp-k
- exp_521489/
-LAST-MODIFIED:20261026T055406Z
+SUMMARY:Neko Case LIVE on KEXP
+DTSTART:20261113T190000Z
+DTEND:20261113T193000Z
+DTSTAMP:20261111T073826Z
+UID:525614@kexp.org
+DESCRIPTION:https://kexp.org/events/kexp-events/neko-case-live-on-kexp-kex
+ p_525614/
+LAST-MODIFIED:20261111T073826Z
 LOCATION:KEXP Studio (NW Rooms)
-URL:https://kexp.org/events/kexp-events/lime-garden-live-on-kexp-kexp_5214
- 89/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dabda LIVE on KEXP
-DTSTART:20261105T000000Z
-DTEND:20261105T003000Z
-DTSTAMP:20261026T055406Z
-UID:521549@kexp.org
-DESCRIPTION:https://kexp.org/events/kexp-events/dabda-live-on-kexp-kexp_52
- 1549/
-LAST-MODIFIED:20261026T055406Z
-LOCATION:KEXP Studio (NW Rooms)
-URL:https://kexp.org/events/kexp-events/dabda-live-on-kexp-kexp_521549/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Downtown Boys LIVE on KEXP
-DTSTART:20261106T190000Z
-DTEND:20261106T193000Z
-DTSTAMP:20261026T055406Z
-UID:521562@kexp.org
-DESCRIPTION:https://kexp.org/events/kexp-events/downtown-boys-live-on-kexp
- -kexp_521562/
-LAST-MODIFIED:20261026T055406Z
-LOCATION:KEXP Studio (NW Rooms)
-URL:https://kexp.org/events/kexp-events/downtown-boys-live-on-kexp-kexp_52
- 1562/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Allison Russell LIVE on KEXP
-DTSTART:20261110T230000Z
-DTEND:20261110T233000Z
-DTSTAMP:20261026T055406Z
-UID:521452@kexp.org
-DESCRIPTION:https://kexp.org/events/kexp-events/allison-russell-live-on-ke
- xp-kexp_521452/
-LAST-MODIFIED:20261026T055406Z
-LOCATION:KEXP Studio (NW Rooms)
-URL:https://kexp.org/events/kexp-events/allison-russell-live-on-kexp-kexp_
- 521452/
+URL:https://kexp.org/events/kexp-events/neko-case-live-on-kexp-kexp_525614
+ /
 END:VEVENT
 END:VCALENDAR
