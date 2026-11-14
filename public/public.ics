@@ -8,40 +8,14 @@ REFRESH-INTERVAL;VALUE=DURATION:PT24H
 X-PUBLISHED-TTL:PT24H
 X-WR-TIMEZONE:America/Los_Angeles
 BEGIN:VEVENT
-SUMMARY:Genesis Owusu LIVE on KEXP (OPEN TO THE PUBLIC)
-DTSTART:20261109T190000Z
-DTEND:20261109T193000Z
-DTSTAMP:20261113T074336Z
-UID:505797@kexp.org
-DESCRIPTION:https://kexp.org/events/kexp-events/genesis-owusu-live-on-kexp
- -kexp_505797/
-LAST-MODIFIED:20261113T074336Z
-LOCATION:KEXP Studio (NW Rooms)
-URL:https://kexp.org/events/kexp-events/genesis-owusu-live-on-kexp-kexp_50
- 5797/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Allison Russell LIVE on KEXP (OPEN TO THE PUBLIC)
-DTSTART:20261110T230000Z
-DTEND:20261110T233000Z
-DTSTAMP:20261113T074336Z
-UID:521452@kexp.org
-DESCRIPTION:https://kexp.org/events/kexp-events/allison-russell-live-on-ke
- xp-kexp_521452/
-LAST-MODIFIED:20261113T074336Z
-LOCATION:KEXP Studio (NW Rooms)
-URL:https://kexp.org/events/kexp-events/allison-russell-live-on-kexp-kexp_
- 521452/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Neko Case LIVE on KEXP (OPEN TO THE PUBLIC)
 DTSTART:20261113T190000Z
 DTEND:20261113T193000Z
-DTSTAMP:20261113T074336Z
+DTSTAMP:20261114T072930Z
 UID:525614@kexp.org
 DESCRIPTION:https://kexp.org/events/kexp-events/neko-case-live-on-kexp-kex
  p_525614/
-LAST-MODIFIED:20261113T074336Z
+LAST-MODIFIED:20261114T072930Z
 LOCATION:KEXP Studio (NW Rooms)
 URL:https://kexp.org/events/kexp-events/neko-case-live-on-kexp-kexp_525614
  /

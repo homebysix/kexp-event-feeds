@@ -1,32 +1,5 @@
 [
   {
-    "id": "505797",
-    "uid": "505797@kexp.org",
-    "title": "Genesis Owusu LIVE on KEXP (OPEN TO THE PUBLIC)",
-    "url": "https://kexp.org/events/kexp-events/genesis-owusu-live-on-kexp-kexp_505797/",
-    "location": "KEXP Studio (NW Rooms)",
-    "start_utc": "2026-11-09T19:00:00+00:00",
-    "end_utc": "2026-11-09T19:30:00+00:00"
-  },
-  {
-    "id": "521452",
-    "uid": "521452@kexp.org",
-    "title": "Allison Russell LIVE on KEXP (OPEN TO THE PUBLIC)",
-    "url": "https://kexp.org/events/kexp-events/allison-russell-live-on-kexp-kexp_521452/",
-    "location": "KEXP Studio (NW Rooms)",
-    "start_utc": "2026-11-10T23:00:00+00:00",
-    "end_utc": "2026-11-10T23:30:00+00:00"
-  },
-  {
-    "id": "525615",
-    "uid": "525615@kexp.org",
-    "title": "Sassy 009 LIVE on KEXP",
-    "url": "https://kexp.org/events/kexp-events/sassy-009-live-on-kexp-kexp_525615/",
-    "location": "KEXP Studio (NW Rooms)",
-    "start_utc": "2026-11-11T19:00:00+00:00",
-    "end_utc": "2026-11-11T19:30:00+00:00"
-  },
-  {
     "id": "525614",
     "uid": "525614@kexp.org",
     "title": "Neko Case LIVE on KEXP (OPEN TO THE PUBLIC)",
