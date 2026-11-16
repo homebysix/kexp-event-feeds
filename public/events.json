@@ -7,5 +7,23 @@
     "location": "KEXP Studio (NW Rooms)",
     "start_utc": "2026-11-13T19:00:00+00:00",
     "end_utc": "2026-11-13T19:30:00+00:00"
+  },
+  {
+    "id": "526831",
+    "uid": "526831@kexp.org",
+    "title": "Julien Baker LIVE on KEXP",
+    "url": "https://kexp.org/events/kexp-events/julien-baker-live-on-kexp-kexp_526831/",
+    "location": "KEXP Studio (NW Rooms)",
+    "start_utc": "2026-11-19T19:00:00+00:00",
+    "end_utc": "2026-11-19T19:30:00+00:00"
+  },
+  {
+    "id": "526854",
+    "uid": "526854@kexp.org",
+    "title": "Emma Ruth Rundle LIVE on KEXP",
+    "url": "https://kexp.org/events/kexp-events/emma-ruth-rundle-live-on-kexp-kexp_526854/",
+    "location": "KEXP Studio (NW Rooms)",
+    "start_utc": "2026-11-24T20:00:00+00:00",
+    "end_utc": "2026-11-24T20:30:00+00:00"
   }
 ]
