@@ -11,11 +11,11 @@ BEGIN:VEVENT
 SUMMARY:Julien Baker LIVE on KEXP
 DTSTART:20261119T190000Z
 DTEND:20261119T193000Z
-DTSTAMP:20261116T074846Z
+DTSTAMP:20261117T085703Z
 UID:526831@kexp.org
 DESCRIPTION:https://kexp.org/events/kexp-events/julien-baker-live-on-kexp-
  kexp_526831/
-LAST-MODIFIED:20261116T074846Z
+LAST-MODIFIED:20261117T085703Z
 LOCATION:KEXP Studio (NW Rooms)
 URL:https://kexp.org/events/kexp-events/julien-baker-live-on-kexp-kexp_526
  831/
@@ -24,11 +24,11 @@ BEGIN:VEVENT
 SUMMARY:Emma Ruth Rundle LIVE on KEXP
 DTSTART:20261124T200000Z
 DTEND:20261124T203000Z
-DTSTAMP:20261116T074846Z
+DTSTAMP:20261117T085703Z
 UID:526854@kexp.org
 DESCRIPTION:https://kexp.org/events/kexp-events/emma-ruth-rundle-live-on-k
  exp-kexp_526854/
-LAST-MODIFIED:20261116T074846Z
+LAST-MODIFIED:20261117T085703Z
 LOCATION:KEXP Studio (NW Rooms)
 URL:https://kexp.org/events/kexp-events/emma-ruth-rundle-live-on-kexp-kexp
  _526854/
